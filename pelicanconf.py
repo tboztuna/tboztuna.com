@@ -44,13 +44,12 @@ MAIN_MENU = True
 HOME_HIDE_TAGS = True
 
 # Blogroll
-LINKS = (('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),)
+LINKS = ()
 
 # Social widget
 SOCIAL = (('linkedin', 'https://linkedin.com/in/tboztuna'),
           ('github', 'https://github.com/tboztuna'),
-          ('google', 'https://google.com/+tboztuna'),
+          ('google', 'https://plus.google.com/109527849290886664803'),
           ('twitter', 'https://twitter.com/tboztuna'),
           ('rss', '//tboztuna.com/feeds/all.atom.xml'))
 
