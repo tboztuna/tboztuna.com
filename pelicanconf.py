@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Tolga Boztuna'
 SITENAME = u'Software Engineering Blog by Tolga Boztuna'
-SITEURL = 'http://localhost:8000/'
+SITEURL = 'https://tboztuna.github.io'
 SITEDESCRIPTION = '%s\'s Thoughts and Writings' % AUTHOR
 
 FAVICON = '/images/favicon.ico'
@@ -12,7 +12,8 @@ FAVICON = '/images/favicon.ico'
 BROWSER_COLOR = '#333333'
 PYGMENTS_STYLE = 'monokai'
 
-THEME = 'flex'
+THEME = './themes/flex'
+
 PATH = 'content'
 
 ROBOTS = 'index, follow'
