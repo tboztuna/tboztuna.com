@@ -62,7 +62,7 @@ CC_LICENSE = {
     'slug': 'by-sa'
 }
 
-COPYRIGHT_YEAR = 2016
+COPYRIGHT_YEAR = 2018
 
 DEFAULT_PAGINATION = 10
 
@@ -85,13 +85,13 @@ SITEMAP = {
     }
 }
 
-DISQUS_SITENAME = "alexandrevicenziblog"
-ADD_THIS_ID = 'ra-55adbb025d4f7e55'
+DISQUS_SITENAME = ''
+ADD_THIS_ID = ''
 
 STATUSCAKE = {
-    'trackid': 'SL0UAgrsYP',
+    'trackid': '',
     'days': 7,
-    'rumid': 6852,
+    'rumid': 0,
     'design': 6,
 }
 
@@ -106,15 +106,15 @@ CUSTOM_CSS = 'static/custom.css'
 USE_LESS = True
 
 GOOGLE_ADSENSE = {
-    'ca_id': 'ca-pub-6625957038449899',
+    'ca_id': '',
     'page_level_ads': True,
     'ads': {
-        'aside': '5340595560',
+        'aside': '',
         'main_menu': '',
         'index_top': '',
-        'index_bottom': '9584371569',
+        'index_bottom': '',
         'article_top': '',
-        'article_bottom': '7257980762',
+        'article_bottom': '',
     }
 }
 
