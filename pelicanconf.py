@@ -6,8 +6,8 @@ AUTHOR = u'Tolga Boztuna'
 SITEDESCRIPTION = '%s\'s Thoughts and Writings' % AUTHOR
 
 SITENAME = u'Software Engineering Blog by Tolga Boztuna'
-SITEURL = 'https://tboztuna.github.io/'
-FEED_DOMAIN = 'https://tboztuna.github.io/'
+SITEURL = 'http://tboztuna.com'
+FEED_DOMAIN = 'http://tboztuna.com'
 
 FAVICON = '/images/favicon.ico'
 
