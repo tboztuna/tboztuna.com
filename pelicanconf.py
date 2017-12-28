@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Tolga Boztuna'
 SITENAME = u'Software Engineering Blog by Tolga Boztuna'
-SITEURL = 'https://tboztuna.github.io'
+SITEURL = 'https://tboztuna.github.io/'
 SITEDESCRIPTION = '%s\'s Thoughts and Writings' % AUTHOR
 
 FAVICON = '/images/favicon.ico'
